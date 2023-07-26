@@ -1,7 +1,6 @@
 # HOSTED
 
-Link:-  https://charanreddy404-contact-list.netlify.app/
-
+Link:- https://contactlist-project.netlify.app/
 
 # Getting Started with Create React App
 
